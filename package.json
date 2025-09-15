@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@discordjs/voice": "^0.18.0",
+    "@distube/ytdl-core": "^4.16.12",
+    "@google-cloud/speech": "^7.2.0",
+    "discord.js": "^14.22.1",
+    "dotenv": "^17.2.2",
+    "ffmpeg-static": "^5.2.0",
+    "node-record-lpcm16": "^1.0.1",
+    "opusscript": "^0.0.8",
+    "play-dl": "^1.9.7",
+    "sodium-native": "^5.0.8",
+    "sqlite3": "^5.1.7",
+    "youtube-sr": "^4.3.12",
+    "ytdl-core": "^4.11.5"
+  }
+}
